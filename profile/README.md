@@ -7,8 +7,8 @@
 - 커플들을 위해 데이트 코스를 편하게 계획할 수 있게 도와드립니다.
 - 직접 코스를 탐색하거나, 다른 유저가 작성한 데이트 코스도 열람 가능합니다.
 - 방문한 데이트 코스에만 리뷰를 남길 수 있는 기능을 준비 중입니다.
+<img width="629" alt="image" src="https://github.com/DayPlan-Team/.github/assets/88478829/e209e920-8cdc-4a99-884e-4fdabbe22415">
 
-![image](https://github.com/DayPlan-Team/.github/assets/88478829/5d4b316d-37df-426b-bd9e-60467a239392)
 
 
 <br/>
