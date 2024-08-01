@@ -25,7 +25,7 @@
 <br/>
 
 ## 🔧 4. DayPlan의 개발 프로젝트 소개
-- [🛡️ 요청의 방파제! ApiGateway](https://github.com/DayPlan-Team/dayplan-api-gateway)
+- [🛡️ 인증 통합화! ApiGateway](https://github.com/DayPlan-Team/dayplan-api-gateway)
 - [👥 신뢰할 수 있는 유저 관리! User-Server](https://github.com/DayPlan-Team/dayplan-user-api)
 - [📄 만족스러운 컨텐츠 관리! Content-Server](https://github.com/DayPlan-Team/dayplan-cotent-api)
 - [📱 사용자 친화적인 안드로이드 개발! Android](https://github.com/DayPlan-Team/dayplan-android)
